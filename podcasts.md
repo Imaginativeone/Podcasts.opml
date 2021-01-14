@@ -6,7 +6,7 @@
 - [ ] America Dissected: Coronavirus" xmlUrl="http://feeds.feedburner.com/america-dissected" 
 - [ ] Ask Rezzz" xmlUrl="https://feeds.transistor.fm/ask-rezzz" 
 - [ ] Base.cs Podcast" xmlUrl="http://feeds.codenewbie.org/basecs_podcast.xml" 
-- [ ] Behind The Membership with Callie Willows" xmlUrl="https://feeds.captivate.fm/behind-the-membership/" 
+- [ ] Behind The Membership with Callie Willows" https://www.themembershipguys.com/behind-the-membership/
 - [ ] Behind The Tech with Kevin Scott" xmlUrl="http://behindthetech.mpsn.libsynpro.com/rss" 
 - [ ] Bet on the Web" xmlUrl="https://feeds.transistor.fm/bet-on-the-web" 
 - [ ] BlogAid WordPress Tips Tuesday" xmlUrl="https://www.blogaid.net/feed/podcast" 
