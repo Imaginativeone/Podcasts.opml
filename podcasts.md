@@ -1,5 +1,5 @@
 - [ ] 50 Things That Made the Modern Economy" url="https://www.bbc.co.uk/programmes/p04b1g3c/episodes/guide"
-- [ ] ATHLEAN-X%E2%84%A2" xmlUrl="https://athleanx.com/podcast.xml" 
+- [ ] ATHLEAN-X%E2%84%A2" url=https://player.fm/series/athlean-x
 - [ ] Afford Anything" xmlUrl="https://paulaandjaymoney.libsyn.com/rss" 
 - [ ] After Talk by Vue.js Berlin" xmlUrl="https://anchor.fm/s/2f6e7074/podcast/rss" 
 - [ ] Agency Trailblazer Podcast - The web design podcast" xmlUrl="https://feed.pod.co/the-agency-trailblazer-podcast-love-your-agency-wp-innovator" 
